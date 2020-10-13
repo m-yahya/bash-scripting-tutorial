@@ -1,5 +1,5 @@
-# bash-scripting-tutorial
-A tutorial to learn bash scripting
+# Bash Scripting Tutorial
+A self-paced tutorial to learn bash scripting
 
 ## Todos
 - [ ] Count words in files
