@@ -1,0 +1,25 @@
+{
+  "name": "bash-scripting-tutorial",
+  "version": "1.0.0",
+  "description": "A self-paced tutorial to learn bash scripting",
+  "main": "index.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-yahya/bash-scripting-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-yahya/bash-scripting-tutorial/issues"
+  },
+  "homepage": "https://github.com/m-yahya/bash-scripting-tutorial#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-run-command": "0.0.10",
+    "gulp-watch": "^5.0.1"
+  }
+}
